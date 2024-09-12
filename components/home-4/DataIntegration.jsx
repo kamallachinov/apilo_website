@@ -1,30 +1,19 @@
 'use client'
 import { fadeUpAnimation } from '@/data/animation'
 import useWhileInView from '@/hooks/useWhileInView'
-import analyticsDark2 from '@/public/images/integration/analytics-hero-dark-2.png'
-import analyticsDark3 from '@/public/images/integration/analytics-hero-dark-3.png'
 import analyticsDark from '@/public/images/integration/analytics-hero-dark.png'
-import analyticsLight2 from '@/public/images/user/mobo.svg'
-import analyticsLight3 from '@/public/images/integration/analytics-hero-light-3.png'
 import analyticsLight from '@/public/images/user/main_site.png'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import { useRef } from 'react'
 
-
 const DataIntegration = () => {
   const ref = useRef(null)
   const controlAnimation = useWhileInView(ref)
-  const ref2 = useRef(null)
-  const controlAnimation2 = useWhileInView(ref2)
-  const ref3 = useRef(null)
-  const controlAnimation3 = useWhileInView(ref3)
-  
+
   return (
     <section className="container mx-auto my-10 flex items-center justify-center gap-5 dark:bg-dark-300 lg:my-0">
-      
       <motion.div initial="initial" ref={ref} animate={controlAnimation} variants={fadeUpAnimation}>
-
         <Image
           src={analyticsLight}
           alt="Analytics-hero-light"
@@ -62,7 +51,6 @@ const DataIntegration = () => {
           />
         </motion.figure>
       </div> */}
-   
     </section>
   )
 }
