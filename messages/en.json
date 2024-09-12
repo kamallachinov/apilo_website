@@ -1,0 +1,49 @@
+{
+  "menu": {
+    "charge": "Charge",
+    "aboutUs": "About Us",
+    "services": "Our Services",
+    "information": "Information",
+    "blog": "Blog",
+    "termsConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "contactUs": "Contact Us",
+    "requestDemo": "Request Demo"
+  },
+  "LocaleSwitcher": {
+    "label": "Change Language"
+  },
+  "about": {
+    "pageHero": {
+      "subtitle": "ABOUT COMPANY",
+      "title": "The future of business is being <br/> shaped by Aplio",
+      "paragraph": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text."
+    },
+    "paymentFeatures": {
+      "sectionTag": "OUR VALUE",
+      "sectionTitle": "Our business is steered by our core values"
+    },
+    "callToAction": {
+      "title": "Start your best payment experience now!",
+      "getStartedButton": "Get Started Today",
+      "noCreditCardRequired": "No Credit Card Required",
+      "freeTrial": "Free For 30 Day Trial.",
+      "description": "By creating a custom Web design for your business, we can bring your vision to life.",
+      "moneyBackGuarantee": "Money Back Guarantee."
+    },
+    "aboutCoreValue": {
+      "coreValue": "Core Value",
+      "philosophyTitle": "The philosophy that underpins our organization.",
+      "philosophyDescription": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text nothing Before & After magazine.",
+      "value1": "Income and expenses tracker",
+      "value2": "Automated invoicing",
+      "value3": "Project management"
+    },
+    "aboutDetails": {
+      "numbers": "Numbers",
+      "experienceInIndustry": "More than 10 years experience in this industry",
+      "demoText1": "Lorem ipsum dolor sit amet consectetur. Nulla lobortis lacus nunc pulvinar amet. Id dignissim ipsum quis varius. Accumsan ultricies dapibus rutrum parturient mauris at est habitasse.",
+      "demoText2": "Risus egestas neque. Nunc diam arcu purus egestas at dignissim nunc. In nec donec sed pretium donec eros  elementum. Nec bibendum vel odio convallis feugiat viverra rhoncus in risus. Pretium ante nibh morbi sed consequat sem quam pharetra. Et cursus mattis senectus aliquet."
+    }
+  }
+}

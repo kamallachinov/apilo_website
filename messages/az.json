@@ -1,0 +1,49 @@
+{
+  "menu": {
+    "charge": "Şarj",
+    "aboutUs": "Haqqımızda",
+    "services": "Servislərimiz",
+    "information": "Məlumatlar",
+    "blog": "Blog",
+    "termsConditions": "Şərtlər və Qaydalar",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "contactUs": "Bizimlə əlaqə",
+    "requestDemo": "Demo Sorğu"
+  },
+  "LocaleSwitcher": {
+    "label": "Dili deyis"
+  },
+  "about": {
+    "pageHero": {
+      "subtitle": "ŞİRKƏT HAQQINDA",
+      "title": "Biznesin gələcəyi Aplio <br/> tərəfindən  formalaşdırılır",
+      "paragraph": "Bu yaxınlara qədər ümumi fikir lorem ipsum-un mənasız bir mətn olaraq yarandığını qəbul edirdi."
+    },
+    "paymentFeatures": {
+      "sectionTag": "DƏYƏRİMİZ",
+      "sectionTitle": "Bizim biznesimiz əsas dəyərlərimizlə idarə olunur"
+    },
+    "callToAction": {
+      "title": "Ən yaxşı ödəniş təcrübənizə indi başlayın!",
+      "getStartedButton": "Bu gün başlayın",
+      "noCreditCardRequired": "Kredit kartı tələb olunmur",
+      "freeTrial": "30 gün pulsuz sınaq.",
+      "description": "Bizim üçün sizin biznesinizə xüsusi veb dizayn yaradaraq vizyonunuzu həyata keçirə bilərik.",
+      "moneyBackGuarantee": "Pulun geri qaytarılması zəmanəti."
+    },
+    "aboutCoreValue": {
+      "coreValue": "Əsas Dəyər",
+      "philosophyTitle": "Təşkilatımızın əsasını təşkil edən fəlsəfə.",
+      "philosophyDescription": "Son vaxtlara qədər üstünlük təşkil edən baxış, Lorem ipsum-un məntiqli bir mətn kimi doğulduğunu qəbul edirdi.",
+      "value1": "Gəlir və xərclər izləyicisi",
+      "value2": "Avtomatlaşdırılmış fakturalar",
+      "value3": "Layihə idarəçiliyi"
+    },
+    "aboutDetails": {
+      "numbers": "Ədədlər",
+      "experienceInIndustry": "Bu sahədə 10 ildən çox təcrübə",
+      "demoText1": "Lorem ipsum dolor sit amet consectetur. Nulla lobortis lacus nunc pulvinar amet. Id dignissim ipsum quis varius. Accumsan ultricies dapibus rutrum parturient mauris at est habitasse.",
+      "demoText2": "Risus egestas neque. Nunc diam arcu purus egestas at dignissim nunc. In nec donec sed pretium donec eros  elementum. Nec bibendum vel odio convallis feugiat viverra rhoncus in risus. Pretium ante nibh morbi sed consequat sem quam pharetra. Et cursus mattis senectus aliquet."
+    }
+  }
+}
