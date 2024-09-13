@@ -40,15 +40,15 @@ export default function ServicePage() {
           content="Explore the services offered by our company. Learn how we can help your business grow with our top-notch solutions."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://localhost:3000/services" /> {/* Replace with actual URL */}
-        <meta property="og:image" content="/images/services-hero.jpg" /> {/* Replace with actual image path */}
+        <meta property="og:url" content="http://localhost:3000/services" />
+        <meta property="og:image" content="/images/services-hero.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Our Services" />
         <meta
           name="twitter:description"
           content="Explore the services offered by our company. Learn how we can help your business grow with our top-notch solutions."
         />
-        <meta name="twitter:image" content="/images/services-hero.jpg" /> {/* Replace with actual image path */}
+        <meta name="twitter:image" content="/images/services-hero.jpg" />
       </Head>
       <PrimaryNavbar />
       <main>

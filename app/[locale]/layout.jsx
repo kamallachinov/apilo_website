@@ -7,6 +7,7 @@ import { Inter, Playfair_Display, Plus_Jakarta_Sans } from 'next/font/google'
 import { NextIntlClientProvider } from 'next-intl'
 import { notFound } from 'next/navigation'
 import Head from 'next/head'
+import { unstable_setRequestLocale } from 'next-intl/server'
 
 const inter = Inter({
   weight: ['200', '300', '400', '500', '600', '700', '800'],
@@ -58,6 +59,7 @@ export const metadata = {
 }
 
 export default async function RootLayout({ children, params: { locale } }) {
+  unstable_setRequestLocale(locale)
   // const locale = useLocale()
   // const messages = useMessages()
   // // Show a 404 error if the user requests an unknown locale
